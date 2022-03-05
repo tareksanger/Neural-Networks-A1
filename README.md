@@ -1,7 +1,7 @@
 # Programming Assignment 1
 
-Liam 
-Student Number: 
+Liam Miller
+Student Number: 10105986
 
 Tarek Sanger   
 Student Number: 101059686   
@@ -9,9 +9,15 @@ Student Number: 101059686
 
 ## Part 1
 
+## A
+part1-A.ipynb
+
+## B
+part1-B.ipynb
 
 
-
+## C
+part1-C.ipynb
 
 ## Part 2
 
